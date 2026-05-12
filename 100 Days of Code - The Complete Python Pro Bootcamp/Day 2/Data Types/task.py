@@ -1,1 +1,4 @@
-len("Hello")
+print("Hello"[-1])
+
+print(type("Hello"))
+print(type(3))
